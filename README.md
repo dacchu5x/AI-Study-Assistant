@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Study Assistant
 
 An intermediate full-stack AI project for college assignments. It lets students register, upload PDF notes, generate summaries and MCQ quizzes, ask questions about uploaded material, and evaluate written answers.
@@ -115,3 +116,6 @@ ai-study-assistant/
 - Add spaced-repetition flashcards.
 - Add document search using embeddings and vector retrieval (RAG).
 - Add quiz history and progress charts.
+=======
+# AI-Study-Assistant
+>>>>>>> origin/main
