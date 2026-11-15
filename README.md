@@ -3,13 +3,21 @@
 
 An intermediate full-stack AI project for college assignments. It lets students register, upload PDF notes, generate summaries and MCQ quizzes, ask questions about uploaded material, and evaluate written answers.
 
-## Stack
-- Frontend: React + Vite
-- Backend: Node.js + Express
-- Database: MongoDB (Mongoose)
-- AI: Google Gemini API (REST)
-- PDF extraction: `pdf-parse`
-- Authentication: JWT + bcrypt
+## 🚀 AI Study Assistant
+
+**Live Demo:** https://frontend-git-main-dacchu5xs-projects.vercel.app
+
+**Backend API:** https://ai-study-assistant-api-eklz.onrender.com
+
+**API Documentation:** https://ai-study-assistant-api-eklz.onrender.com/docs
+
+### Tech Stack
+- React + Vite
+- Python + FastAPI
+- MongoDB
+- Google Gemini API
+- Vercel (Frontend Deployment)
+- Render (Backend Deployment)
 
 ## Requirements
 - Node.js 18+
